@@ -1023,6 +1023,7 @@ blockquote {
 .mediz-header-side-nav.mediz-style-side-toggle .mediz-logo {
   background-color: #ffffff;
 }
+.gdlr-core-column-service-item .gdlr-core-column-service-read-more,
 .mediz-logo-right-text .mediz-logo-right-text-icon {
   color: #66cc33;
 }
@@ -1209,7 +1210,7 @@ ul.mm-listview li {
   color: #b0b0b0;
 }
 .mediz-main-menu-cart > .mediz-top-cart-count {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .mediz-main-menu-cart > .mediz-top-cart-count {
   color: #ffffff;
@@ -1249,11 +1250,11 @@ body.mediz-boxed .mediz-body-wrapper,
   color: #ffffff;
 }
 .mediz-page-title-wrap .mediz-page-caption {
-  color: #bbd1ff;
+  color: #519ec5;
 }
 .mediz-page-title-wrap .mediz-page-caption .woocommerce-breadcrumb,
 .mediz-page-title-wrap .mediz-page-caption .woocommerce-breadcrumb a {
-  color: #bbd1ff;
+  color: #519ec5;
 }
 .mediz-page-title-wrap .mediz-page-title-overlay {
   background-color: #000000;
@@ -1407,7 +1408,7 @@ body.mediz-boxed .mediz-body-wrapper,
 }
 .mediz-sidebar-area a:hover,
 .mediz-sidebar-area .current-menu-item > a {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-recent-post-widget .gdlr-core-blog-info i {
   color: #9c9c9c;
@@ -1458,10 +1459,10 @@ body.mediz-boxed .mediz-body-wrapper,
   color: #ffffff;
 }
 .mediz-body .tagcloud a {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .mediz-body .tagcloud a {
-  border-color: #4d93e9;
+  border-color: #519ec5;
 }
 ul.gdlr-core-twitter-widget-wrap li:before {
   color: #303030;
@@ -1495,7 +1496,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list2
   a:before,
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list2 li a:hover,
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list2 li a:hover:before {
-  color: #4d93e9;
+  color: #519ec5;
 }
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a,
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list2
@@ -1505,10 +1506,10 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list2
   li.current-menu-ancestor
   a,
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list2 li a:hover {
-  border-color: #4d93e9;
+  border-color: #519ec5;
 }
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a:before {
-  color: #4d93e9;
+  color: #519ec5;
 }
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list2 li a:before {
   color: #888888;
@@ -1519,7 +1520,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box2 li a {
 }
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box li a,
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box2 li a {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box li a:hover,
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box li.current-menu-item a,
@@ -1663,21 +1664,21 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box2
 }
 .mediz-single-author-tags a,
 .mediz-single-author-tags a:hover {
-  color: #4d93e9;
-  border-color: #4d93e9;
+  color: #519ec5;
+  border-color: #519ec5;
 }
 .mediz-single-nav a,
 .mediz-single-nav a:hover,
 .mediz-blog-style-3 .mediz-single-nav .mediz-text {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .mediz-blog-style-2 .mediz-single-nav-area-left .mediz-single-nav-area-overlay {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .mediz-blog-style-2
   .mediz-single-nav-area-right
   .mediz-single-nav-area-overlay {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .mediz-blog-style-2 .mediz-single-related-post-wrap {
   background-color: #f5f5f5;
@@ -1695,7 +1696,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box2
 .mediz-comments-area .mediz-comments-title,
 .mediz-comments-area .comment-reply-title,
 .mediz-single-related-post-wrap .mediz-single-related-post-title {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .mediz-comments-area .comment-respond {
   background-color: #ffffff;
@@ -1734,7 +1735,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box2
 .gdlr-core-blog-info-wrapper a:hover,
 .gdlr-core-blog-info-wrapper i,
 .gdlr-core-blog-grid .gdlr-core-blog-info-date a {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-blog-date-wrapper .gdlr-core-blog-date-day,
 .mediz-single-article .mediz-single-article-date-day {
@@ -1756,13 +1757,13 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box2
 .gdlr-core-style-2 .gdlr-core-blog-thumbnail .gdlr-core-blog-info-category,
 .gdlr-core-blog-full.gdlr-core-style-3 .gdlr-core-blog-info-category,
 .gdlr-core-blog-grid.gdlr-core-style-3 .gdlr-core-blog-info-category {
-  background: #4d93e9;
+  background: #519ec5;
 }
 .gdlr-core-blog-feature .gdlr-core-blog-info-category {
-  background: #4d93e9;
+  background: #519ec5;
 }
 .gdlr-core-recent-post-widget-thumbnail .gdlr-core-blog-info-category {
-  background: #4d93e9;
+  background: #519ec5;
 }
 .gdlr-core-blog-modern.gdlr-core-with-image .gdlr-core-blog-info-wrapper,
 .gdlr-core-blog-modern.gdlr-core-with-image .gdlr-core-blog-info-wrapper a,
@@ -1809,11 +1810,11 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box2
 }
 .mediz-blog-aside-format .mediz-single-article-content,
 .gdlr-core-blog-aside-format {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .mediz-blog-quote-format .mediz-single-article-content,
 .gdlr-core-blog-quote-format {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .mediz-blog-aside-format .mediz-single-article-content,
 .gdlr-core-blog-aside-format .gdlr-core-blog-content {
@@ -1852,13 +1853,13 @@ body .page-links > span.page-links-title {
 .gdlr-core-pagination a:hover,
 .gdlr-core-pagination a.gdlr-core-active,
 .gdlr-core-pagination span {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 body .page-links > span,
 body .page-links > a:hover,
 body .nav-links > span.current,
 body .nav-links > a:hover {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-pagination a:hover,
 .gdlr-core-pagination a.gdlr-core-active,
@@ -1943,13 +1944,13 @@ body .nav-links > a:hover {
 .gdlr-core-portfolio-grid2
   .gdlr-core-portfolio-content-wrap
   .gdlr-core-portfolio-info {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-portfolio-badge {
   color: #0a0a0a;
 }
 .gdlr-core-portfolio-badge {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-portfolio-thumbnail .gdlr-core-portfolio-icon,
 .gdlr-core-portfolio-thumbnail .gdlr-core-portfolio-title a,
@@ -1987,7 +1988,7 @@ body .nav-links > a:hover {
 }
 .gdlr-core-filterer-wrap.gdlr-core-style-button a:hover,
 .gdlr-core-filterer-wrap.gdlr-core-style-button a.gdlr-core-active {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-price-table-item .gdlr-core-price-table {
   background-color: #ffffff;
@@ -2034,11 +2035,11 @@ body .gdlr-core-price-table .gdlr-core-price-table-button:hover {
   border-color: #e5e5e5;
 }
 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-head {
-  background-color: #4d93e9;
-  background: -webkit-linear-gradient(#4d93e9, #4d93e9);
-  background: -o-linear-gradient(#4d93e9, #4d93e9);
-  background: -moz-linear-gradient(#4d93e9, #4d93e9);
-  background: linear-gradient(#4d93e9, #4d93e9);
+  background-color: #519ec5;
+  background: -webkit-linear-gradient(#519ec5, #519ec5);
+  background: -o-linear-gradient(#519ec5, #519ec5);
+  background: -moz-linear-gradient(#519ec5, #519ec5);
+  background: linear-gradient(#519ec5, #519ec5);
 }
 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-icon {
   color: #ffffff;
@@ -2065,11 +2066,11 @@ body .gdlr-core-price-table .gdlr-core-price-table-button:hover {
 }
 body .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-button,
 body .gdlr-core-price-table .gdlr-core-price-table-button:hover {
-  background-color: #4d93e9;
-  background: -webkit-linear-gradient(#4d93e9, #4d93e9);
-  background: -o-linear-gradient(#4d93e9, #4d93e9);
-  background: -moz-linear-gradient(#4d93e9, #4d93e9);
-  background: linear-gradient(#4d93e9, #4d93e9);
+  background-color: #519ec5;
+  background: -webkit-linear-gradient(#519ec5, #519ec5);
+  background: -o-linear-gradient(#519ec5, #519ec5);
+  background: -moz-linear-gradient(#519ec5, #519ec5);
+  background: linear-gradient(#519ec5, #519ec5);
 }
 .gdlr-core-accordion-style-icon .gdlr-core-accordion-item-icon,
 .gdlr-core-accordion-style-box-icon .gdlr-core-accordion-item-icon,
@@ -2129,7 +2130,7 @@ body .gdlr-core-price-table .gdlr-core-price-table-button:hover {
 .gdlr-core-toggle-box-style-background-title .gdlr-core-toggle-box-item-title,
 .gdlr-core-toggle-box-style-background-title-icon
   .gdlr-core-toggle-box-item-title {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-accordion-style-background-title .gdlr-core-accordion-item-title,
 .gdlr-core-accordion-style-background-title-icon
@@ -2173,7 +2174,7 @@ body .gdlr-core-price-table .gdlr-core-price-table-button:hover {
 .gdlr-core-toggle-box-style-background-title-icon
   .gdlr-core-active
   .gdlr-core-toggle-box-item-title {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-audio,
 .gdlr-core-audio .mejs-container .mejs-controls {
@@ -2264,10 +2265,10 @@ pre {
   background-color: #76a9e8;
 }
 .gdlr-core-body .gdlr-core-button-with-border {
-  border-color: #4d93e9;
+  border-color: #519ec5;
 }
 .gdlr-core-body .gdlr-core-button-with-border.gdlr-core-button-transparent {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-body .gdlr-core-button-with-border:hover {
   border-color: #76a9e8;
@@ -2277,18 +2278,18 @@ pre {
   color: #76a9e8;
 }
 .gdlr-core-body .gdlr-core-button.gdlr-core-button-gradient {
-  background-color: #4d93e9;
-  background: -webkit-linear-gradient(#207ae8, #4d93e9);
-  background: -o-linear-gradient(#207ae8, #4d93e9);
-  background: -moz-linear-gradient(#207ae8, #4d93e9);
-  background: linear-gradient(#207ae8, #4d93e9);
+  background-color: #519ec5;
+  background: -webkit-linear-gradient(#207ae8, #519ec5);
+  background: -o-linear-gradient(#207ae8, #519ec5);
+  background: -moz-linear-gradient(#207ae8, #519ec5);
+  background: linear-gradient(#207ae8, #519ec5);
 }
 .gdlr-core-body .gdlr-core-button.gdlr-core-button-gradient-v {
-  background-color: #4d93e9;
-  background: -webkit-linear-gradient(to right, #207ae8, #4d93e9);
-  background: -o-linear-gradient(to right, #207ae8, #4d93e9);
-  background: -moz-linear-gradient(to right, #207ae8, #4d93e9);
-  background: linear-gradient(to right, #207ae8, #4d93e9);
+  background-color: #519ec5;
+  background: -webkit-linear-gradient(to right, #207ae8, #519ec5);
+  background: -o-linear-gradient(to right, #207ae8, #519ec5);
+  background: -moz-linear-gradient(to right, #207ae8, #519ec5);
+  background: linear-gradient(to right, #207ae8, #519ec5);
 }
 .gdlr-core-call-to-action-item-title {
   color: #2c2c2c;
@@ -2325,7 +2326,7 @@ pre {
 }
 .gdlr-core-dropdown-tab .gdlr-core-dropdown-tab-title,
 .gdlr-core-dropdown-tab .gdlr-core-dropdown-tab-head-wrap {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-dropdown-tab .gdlr-core-dropdown-tab-title {
   color: #252525;
@@ -2333,14 +2334,14 @@ pre {
 .gdlr-core-flipbox-item .gdlr-core-flipbox-front,
 .gdlr-core-flipbox-item .gdlr-core-flipbox-back,
 .gdlr-core-feature-box-item .gdlr-core-feature-box {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-flipbox-item .gdlr-core-flipbox-front,
 .gdlr-core-flipbox-item .gdlr-core-flipbox-back,
 .gdlr-core-flipbox-item .gdlr-core-flipbox-frame,
 .gdlr-core-feature-box-item .gdlr-core-feature-box,
 .gdlr-core-feature-box-item .gdlr-core-feature-box-frame {
-  border-color: #4d93e9;
+  border-color: #519ec5;
 }
 .gdlr-core-flipbox-item .gdlr-core-flipbox-item-icon,
 .gdlr-core-feature-box-item .gdlr-core-feature-box-item-icon {
@@ -2504,7 +2505,7 @@ pre {
 }
 .gdlr-core-skill-bar-item .gdlr-core-skill-bar-filled,
 .gdlr-core-skill-bar-item .gdlr-core-skill-bar-filled-indicator {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-flexslider-custom-nav i {
   color: #a7a7a7;
@@ -2518,16 +2519,16 @@ pre {
   .flex-direction-nav
   li
   a {
-  color: #4d93e9;
-  border-color: #4d93e9;
+  color: #519ec5;
+  border-color: #519ec5;
 }
 .gdlr-core-flexslider.gdlr-core-bottom-nav-1 .flex-direction-nav li a,
 .gdlr-core-flexslider[data-nav='navigation-outer-plain-round']
   .flex-direction-nav
   li
   a {
-  color: #4d93e9;
-  border-color: #4d93e9;
+  color: #519ec5;
+  border-color: #519ec5;
 }
 .gdlr-core-flexslider-nav.gdlr-core-round-style li a,
 .gdlr-core-flexslider-nav.gdlr-core-rectangle-style li a {
@@ -2602,7 +2603,7 @@ pre {
   border-color: #ebebeb;
 }
 .gdlr-core-tab-item-title-line {
-  border-color: #4d93e9;
+  border-color: #519ec5;
 }
 .gdlr-core-tab-item-title.gdlr-core-active {
   color: #464646;
@@ -2612,7 +2613,7 @@ pre {
   background-color: #ffffff;
 }
 table tr th {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 table tr th,
 .mediz-body table tr th a,
@@ -2666,7 +2667,7 @@ table tr:nth-child(even) {
 .single-product.woocommerce #review_form #respond p.stars a,
 .single-product.woocommerce div.product .product_meta,
 .single-product.woocommerce div.product .product_meta a {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .woocommerce #respond input#submit.alt,
 .woocommerce a.button.alt,
@@ -2677,7 +2678,7 @@ table tr:nth-child(even) {
 .woocommerce button.button,
 html .woocommerce input.button,
 html .woocommerce span.onsale {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 span.woocommerce-Price-amount.amount {
   color: #707070;
@@ -2701,7 +2702,7 @@ del span.woocommerce-Price-amount.amount {
 .woocommerce a.button:hover,
 .woocommerce button.button:hover,
 .woocommerce input.button:hover {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .woocommerce #respond input#submit.alt,
 .woocommerce a.button.alt,
@@ -2763,7 +2764,7 @@ del span.woocommerce-Price-amount.amount {
 }
 .gdlr-core-product-thumbnail .added_to_cart,
 .gdlr-core-product-thumbnail .gdlr-core-product-add-to-cart {
-  background-color: #4d93e9;
+  background-color: #519ec5;
   background-color: rgba(77, 147, 233, 0.9);
 }
 .woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
@@ -2844,7 +2845,7 @@ del span.woocommerce-Price-amount.amount {
 }
 .gdlr-core-page-builder-body [data-skin='White Text'] a,
 .gdlr-core-page-builder-body [data-skin='White Text'] .gdlr-core-skin-link {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body [data-skin='White Text'] a:hover,
 .gdlr-core-page-builder-body
@@ -3220,13 +3221,13 @@ del span.woocommerce-Price-amount.amount {
 .gdlr-core-page-builder-body [data-skin='acc-dpment'] h6,
 .gdlr-core-page-builder-body [data-skin='acc-dpment'] .gdlr-core-skin-title,
 .gdlr-core-page-builder-body [data-skin='acc-dpment'] .gdlr-core-skin-title a {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='acc-dpment']
   .gdlr-core-skin-title
   a:hover {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='acc-dpment']
@@ -3278,14 +3279,14 @@ del span.woocommerce-Price-amount.amount {
 }
 .gdlr-core-page-builder-body [data-skin='acc-dpment'] .gdlr-core-button,
 .gdlr-core-page-builder-body [data-skin='acc-dpment'] .gdlr-core-button-color {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body [data-skin='acc-dpment'] input[type='button'],
 .gdlr-core-page-builder-body [data-skin='acc-dpment'] input[type='submit'] {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body [data-skin='acc-dpment'] .gdlr-core-pagination a {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body [data-skin='cl-doc-dpment'] h1,
 .gdlr-core-page-builder-body [data-skin='cl-doc-dpment'] h2,
@@ -3331,15 +3332,15 @@ del span.woocommerce-Price-amount.amount {
 .gdlr-core-page-builder-body
   [data-skin='Mediz A2 Lung Diseases']
   .gdlr-core-skin-link {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Mediz A2 Lung Diseases']
   .gdlr-core-skin-divider {
-  border-color: #4d93e9;
-  column-rule-color: #4d93e9;
-  -moz-column-rule-color: #4d93e9;
-  -webkit-column-rule-color: #4d93e9;
+  border-color: #519ec5;
+  column-rule-color: #519ec5;
+  -moz-column-rule-color: #519ec5;
+  -webkit-column-rule-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Mediz A2 Lung Diseases']
@@ -3347,7 +3348,7 @@ del span.woocommerce-Price-amount.amount {
   .flex-direction-nav
   li
   a {
-  border-color: #4d93e9;
+  border-color: #519ec5;
 }
 .gdlr-core-page-builder-body [data-skin='Mediz A2 Counter'] h1,
 .gdlr-core-page-builder-body [data-skin='Mediz A2 Counter'] h2,
@@ -3510,7 +3511,7 @@ del span.woocommerce-Price-amount.amount {
 .gdlr-core-page-builder-body
   [data-skin='Mediz A2 contact form']
   .gdlr-core-button-color {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Mediz A2 contact form']
@@ -3518,13 +3519,13 @@ del span.woocommerce-Price-amount.amount {
 .gdlr-core-page-builder-body
   [data-skin='Mediz A2 contact form']
   input[type='submit'] {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Mediz A2 contact form']
   .gdlr-core-pagination
   a {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-page-builder-body [data-skin='Mediz A2 Accordion'] h1,
 .gdlr-core-page-builder-body [data-skin='Mediz A2 Accordion'] h2,
@@ -4186,7 +4187,7 @@ del span.woocommerce-Price-amount.amount {
 .gdlr-core-page-builder-body
   [data-skin='Dentist Contact Form ']
   .gdlr-core-button-color {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Dentist Contact Form ']
@@ -4194,13 +4195,13 @@ del span.woocommerce-Price-amount.amount {
 .gdlr-core-page-builder-body
   [data-skin='Dentist Contact Form ']
   input[type='submit'] {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Dentist Contact Form ']
   .gdlr-core-pagination
   a {
-  background-color: #4d93e9;
+  background-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Personal HP Dentist']
@@ -4224,10 +4225,10 @@ del span.woocommerce-Price-amount.amount {
 .gdlr-core-page-builder-body
   [data-skin='Personal HP Dentist']
   .gdlr-core-skin-divider {
-  border-color: #4d93e9;
-  column-rule-color: #4d93e9;
-  -moz-column-rule-color: #4d93e9;
-  -webkit-column-rule-color: #4d93e9;
+  border-color: #519ec5;
+  column-rule-color: #519ec5;
+  -moz-column-rule-color: #519ec5;
+  -webkit-column-rule-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Personal HP Dentist']
@@ -4235,7 +4236,7 @@ del span.woocommerce-Price-amount.amount {
   .flex-direction-nav
   li
   a {
-  border-color: #4d93e9;
+  border-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='Personal HP Dentist']
@@ -4332,7 +4333,7 @@ del span.woocommerce-Price-amount.amount {
   [data-skin='HP Dentist Accordion']
   .gdlr-core-skin-title
   a {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='HP Dentist Accordion']
@@ -4365,21 +4366,21 @@ del span.woocommerce-Price-amount.amount {
   .mediz-widget
   ul
   li:before {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='HP Dentist Accordion']
   .gdlr-core-blog-modern.gdlr-core-with-image
   .gdlr-core-blog-info-wrapper
   i {
-  color: #4d93e9;
+  color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='HP Dentist Accordion']
   .gdlr-core-flexslider-nav.gdlr-core-plain-circle-style
   li
   a {
-  border-color: #4d93e9;
+  border-color: #519ec5;
 }
 .gdlr-core-page-builder-body
   [data-skin='HP Dentist Accordion']
