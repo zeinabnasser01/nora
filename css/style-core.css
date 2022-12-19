@@ -1765,7 +1765,6 @@ body.admin-bar .mediz-overlay-menu-content {
 .mediz-logo-right-text .mediz-logo-right-text-icon {
   float: left;
   font-size: 20px;
-  margin-top: 7px;
   margin-right: 10px;
 }
 .mediz-logo-right-text .mediz-logo-right-text-title {
@@ -1783,6 +1782,8 @@ body.admin-bar .mediz-overlay-menu-content {
   float: left;
   margin-right: 30px;
   min-width: 170px;
+  display: flex;
+  align-items: center;
 }
 .mediz-logo-right-text .mediz-logo-right-text-wrap:last-child {
   margin-right: 0px;
@@ -2495,7 +2496,7 @@ body.blog .mediz-single-article {
   margin: -41px auto 0px;
 }
 .mediz-single-author .mediz-single-author-avartar {
-  max-width: 80px;
+  max-width: 90px;
   margin: 0px auto 37px;
   overflow: hidden;
   border-radius: 50%;
@@ -4273,10 +4274,22 @@ body.mediz-boxed .gdlr-core-column-extend-right .gdlr-core-pbf-background-wrap {
     max-width: 90px;
     margin: 0px auto 30px;
   }
+  .mediz-blog-style-4 .mediz-single-author .mediz-single-author-avartar {
+    float: none;
+    text-align: left;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
   .mediz-blog-style-4 .mediz-single-author-content-wrap {
     text-align: center;
   }
 
+  .gdlr-core-pbf-wrapper-full-no-space .gdlr-core-pbf-column-content-margin {
+    border: 5px solid #fff !important;
+  }
+  .gdlr-core-pbf-wrapper-full-no-space {
+    max-width: 100%;
+  }
   /* footer */
   .mediz-footer-wrapper {
     padding-bottom: 7px;
@@ -6524,4 +6537,9 @@ p.zeno_font_resizer .screen-reader-text {
 
 .gdlr-core-zoom-on-hover img {
   width: 100%;
+}
+
+.gdlr-core-column-service-content {
+  max-height: 75px;
+  overflow: hidden;
 }
