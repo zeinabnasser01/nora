@@ -185,7 +185,7 @@
 }
 .gdlr-core-tab-feature3-item .gdlr-core-container {
   position: relative;
-  padding-bottom: 90px;
+  padding-bottom: 20px;
 }
 .gdlr-core-tab-feature3-item .gdlr-core-tab-feature3-content-left {
   float: left;
@@ -670,9 +670,6 @@ body.mediz-boxed .mediz-fixed-footer .mediz-copyright-wrapper {
 .mediz-logo {
   padding-top: 20px;
 }
-.mediz-logo {
-  padding-bottom: 18px;
-}
 .mediz-logo-inner {
   max-width: 220px;
 }
@@ -839,10 +836,10 @@ body.blog .mediz-sidebar-style-none,
   padding-bottom: 45px;
 }
 .mediz-copyright-container {
-  padding-top: 30px;
+  padding-top: 15px;
 }
 .mediz-copyright-container {
-  padding-bottom: 30px;
+  padding-bottom: 15px;
 }
 .mediz-body h1,
 .mediz-body h2,
@@ -4540,4 +4537,9 @@ del span.woocommerce-Price-amount.amount {
 
 .gdlr-core-column-service-item .gdlr-core-column-service-content {
   padding: 0 15px;
+}
+
+.gdlr-core-column-service-item.gdlr-core-center-align
+  .gdlr-core-column-service-media {
+  margin-bottom: 10px;
 }
