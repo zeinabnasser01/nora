@@ -668,7 +668,10 @@ body.mediz-boxed .mediz-fixed-footer .mediz-copyright-wrapper {
   -moz-box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.1);
 }
 .mediz-logo {
-  padding-top: 20px;
+  /* padding-top: 20px; */
+  padding-left: 0;
+  padding-right: 40px;
+  margin-right: 20px;
 }
 .mediz-logo-inner {
   max-width: 220px;
@@ -685,12 +688,13 @@ body.mediz-boxed .mediz-fixed-footer .mediz-copyright-wrapper {
 }
 .mediz-navigation {
   padding-top: 18px;
+  display: flex;
 }
 .mediz-navigation-top {
   top: 28px;
 }
 .mediz-navigation .sf-menu > li > a {
-  padding-bottom: 33px;
+  padding-bottom: 30px;
 }
 .mediz-navigation .mediz-main-menu {
   padding-right: 0px;
@@ -725,7 +729,9 @@ body.mediz-boxed .mediz-fixed-footer .mediz-copyright-wrapper {
   top: 23px;
 }
 .mediz-animate-fixed-navigation.mediz-navigation-bar-wrap .mediz-navigation {
-  padding-top: 23px;
+  padding-top: 20px;
+  display: flex;
+  padding-bottom: 5px;
 }
 .mediz-animate-fixed-navigation.mediz-header-style-plain
   .mediz-navigation
